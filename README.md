@@ -5,7 +5,7 @@ Help is very much appreciated.
 black - #000000  
 bg - alt #2A1B1B  
 bg - #332222  
-brown - #382820
+brown - #382820  
 accent - #863B2F  
 #986E3F  
 #e7cbab  
