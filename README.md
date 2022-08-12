@@ -1,5 +1,7 @@
-# <ruby>夜明け<rt>Yoake</rt></ruby> Colorscheme
-
+# <ruby>夜明け<rt>Yoake</rt></ruby> Colorscheme  
+A colorscheme for daybreak!  
+Help is very much appreciated.
+---
 black - #000000  
 #2A1B1B  
 bg - #332222  
